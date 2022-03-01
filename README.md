@@ -37,5 +37,5 @@
 
 
 [instagram]: https://instagram.com/mr.ash17_
-[linkedin]: https://linkedin.com/in/ashish-makhija-10848b1ab
+[linkedin]: https://linkedin.com/in/ashish-makhija
 [github]: https://github.com/mrash17
