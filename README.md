@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashish  👋
 
-## I'm a Full-Time Open-Sourcerer & Aspiring IT Aspirant!
+## I'm a Full-Time Open-Sourcer & Aspiring IT Aspirant!
 
 - 🔭 I’m currently working on ChatBot and Personal Website
 - 🌱 I’m currently learning Laravel and React
