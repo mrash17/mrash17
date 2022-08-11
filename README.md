@@ -15,6 +15,9 @@
 
 <br />
 [![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrash17&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mrash17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrash17&layout=compact&theme=calm)](https://github.com/mrash17/github-readme-stats)
+
+
 
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrash17&theme=tokyonight)
 ### Languages and Tools:
