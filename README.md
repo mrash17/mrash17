@@ -1,6 +1,10 @@
 ### Hi there, I'm Ashish <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 ## I'm a Full-Time Open-Sourcer & Aspiring IT Aspirant!
+### Connect with me:
+
+<a href="https://github.com/mrash17"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/ashish.makhija.16"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/ashish-makhija/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/mr.ash17_/"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
+
 
 - 🔭 I’m currently working on Voice ChatBot and Personal Website
 - 🌱 I’m currently learning Data Structure And Algorithms
@@ -8,16 +12,12 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to swim, play guitar and badminton
 
-### Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mr.ash17_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mrash17 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
 
 <br />
 
-[![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrash17&show_icons=true&theme=dracula)](https://github.com/mrash17/github-readme-stats)
-
+[![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrash17&show_icons=true&theme=dracula)]
 
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrash17&theme=tokyonight)
 ### Languages and Tools:
