@@ -1,4 +1,4 @@
-### Hi there, I'm Ashish  👋
+### Hi there, I'm Ashish <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 ## I'm a Full-Time Open-Sourcer & Aspiring IT Aspirant!
 
