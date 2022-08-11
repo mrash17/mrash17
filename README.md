@@ -14,7 +14,9 @@
 [<img align="left" alt="mr.ash17_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 [![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrash17&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mrash17/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrash17&layout=compact&theme=calm)](https://github.com/mrash17/github-readme-stats)
 
 
