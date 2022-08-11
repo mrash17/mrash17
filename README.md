@@ -16,10 +16,7 @@
 
 <br />
 
-[![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitt1080&show_icons=true&theme=dracula)](https://github.com/mrash17/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrash17&layout=compact&theme=calm)](https://github.com/mrash17/github-readme-stats)
-
+[![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrash17&show_icons=true&theme=dracula)](https://github.com/mrash17/github-readme-stats)
 
 
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrash17&theme=tokyonight)
