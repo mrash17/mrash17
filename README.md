@@ -4,9 +4,9 @@
 ### Connect with me:
 
 <a href="https://github.com/mrash17"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/ashish.makhija.16"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/ashish-makhija/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
-<a href="https://www.instagram.com/mr.ash17_">
+<a href="https://www.instagram.com/mr.ash17_"> <img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" width="32px" height="32px"></a>
 <!--   <img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a>  -->
-<img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" width="32px" height="32px"></a>
+
 
 - 🔭 I’m currently working on Voice ChatBot and Personal Website
 - 🌱 I’m currently learning Data Structure And Algorithms
